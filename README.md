@@ -1,24 +1,49 @@
-# Simple Calculator in C++
+# 🚀 My C++ Projects
 
-This is my first project using the C++ programming language. It is a simple calculator program.
-
-## ✨ Features:
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-## 🧠 What I learned while building this project:
-- Working with variables
-- Using conditional statements and loops
-- Creating and using functions
-- Organizing and structuring code
-
-## 📁 Project Files:
-- calculator.c++: The source code
-- calculator.exe: The executable file to run the calculator
+Hi! I'm Omar Sabri, and this repository contains several C++ projects I created while learning the language. Each project is in a separate file or folder.
 
 ---
 
-## 👨‍💻 Developed by:
-*Omar Sabri* – A beginner C++ programmer passionate about learning and building real projects.
+## 📌 Projects List
+
+### 1. 🧮 Calculator
+A simple console calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division).  
+📁 File: calculator.c++
+
+---
+
+### 2. 🗓 Annual Calendar
+Generates and displays a full calendar for a given year.  
+📁 File: Annual calendar.c++
+
+---
+
+### 3. 📦 Inventory System
+A basic inventory management system (structure in progress).  
+📁 File: Inventory system.c++
+
+---
+
+### 4. 🎓 Student Management System
+A program to manage student data (add/edit/delete/display), organized inside a folder.  
+📁 Folder: Student management system/
+
+---
+
+## 📁 Other Notes
+Some .exe files are included for quick testing and running.
+
+---
+
+## 🧠 Skills I'm Practicing
+- Arrays and loops
+- Functions
+- Pointers
+- Object-Oriented Programming (OOP)
+- File organization and Git version control
+
+---
+
+## 🔗 Contact
+📧 Email: omer.hanafi2005@gmail.com  
+💻 GitHub: [omarSabri123](https://github.com/omarSabri123)
